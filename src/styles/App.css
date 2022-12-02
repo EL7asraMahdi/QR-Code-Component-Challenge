@@ -126,6 +126,7 @@ select {
 }
 .box h2 {
   line-height: 1.4;
+  /* word-spacing: -1px; */
   letter-spacing: -0.2px;
   color: hsl(218, 44%, 22%);
   font-size: 18px;
